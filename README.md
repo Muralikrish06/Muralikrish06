@@ -12,12 +12,17 @@ Predict future stock prices using regression models.
 ### 🔹 Clickstream Customer Conversion
 Classification + Revenue Prediction + Clustering.
 - Tools: Logistic Regression, GBM, KMeans, Streamlit
-- [🔗 View Project](https://github.com/Muralikrish06/project4/blob/main/final.ipynb)
+- [🔗 View Project](https://github.com/Muralikrish06/clickstream)
 
 ### 🔹 MyZoom Feedback Validator (EdTech)
 BERT model for validating user feedback with Gradio app.
 - Tools: Hugging Face Transformers, BERT, Gradio
 - [🔗 View Project](https://github.com/Muralikrish06/ZOOM_NLP/blob/main/nlp.ipynb)
+
+- ### 🔹 TransArt – Vernacular Text to Image
+Translate local language → English → Image generation.
+- Tools: mBART, Stable Diffusion, Streamlit
+- [🔗 View Project](https://github.com/Muralikrish06/project4/blob/main/final.ipynb)
 
 
 ## 📫 Contact Me
