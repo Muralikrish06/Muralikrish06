@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Murali Krishnan
 
-🎯 **Aspiring Data Scientist** | 💻 Electronics & Communication Graduate | 📊 Transitioning into Tech
+🎯 **Senior ML Engineer** | 💻 Electronics & Communication Graduate | 📊 Transitioning into Tech
 
 ## 🚀 Featured Projects
 
