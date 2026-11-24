@@ -26,9 +26,9 @@ Translate local language → English → Image generation.
 
 
 ## 📫 Contact Me
-- ✉️ Email: murkrio688oct@gmail.com
+- ✉️ Email: muralikrioct06@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/murali-k-98723b255)
 - 💻 [GitHub](https://github.com/Muralikrish06)
 - ## 📄 Resume
-- [📥 Download My Resume (PDF)](https://drive.google.com/file/d/1GRlvFc1oU1h0yuuNGLliu2KU6Wa3avnZ/view?usp=sharing)
+- [📥 Download My Resume (PDF)](https://drive.google.com/file/d/1nV7P5HSMnCeYqrFrcZrzduMyw7__q3Me/view?usp=drive_link)
 
